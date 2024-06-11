@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.pagination {
+    @apply flex flex-wrap justify-center gap-1 my-5;
+  }
+  
+  .pagination li {
+    @apply py-1  px-2 lg:px-4 mx-1 bg-white border rounded border-gray-200 cursor-pointer text-sm; 
+  }
+  
+  .pagination .rc-pagination-item-active { 
+    @apply font-bold border border-red-600 text-indigo-500;
+  } 
+  
+  .pagination .disabled {
+    @apply opacity-20 pointer-events-none;
+  }
+
+
+  

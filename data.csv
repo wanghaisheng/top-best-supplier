@@ -1,0 +1,7 @@
+title;description;topId;slug;isDuplicate;_id;isUpdated
+test 1 and is best;is a list;65570f96fd5ef324149f2355;test 1 and is best;true;656f68f00a5d76be0453dceb;true
+test 2;is a list;65570f96fd5ef324149f2355;test 2;true;656f68f00a5d76be0453dcec;true
+test 3;is a list;65570f96fd5ef324149f2355;test 3;true;656f68f00a5d76be0453dced;true
+test 4;is a list;65570f96fd5ef324149f2355;test 4;true;656f68f00a5d76be0453dcee;true
+test 5;just added;65570f96fd5ef324149f2355;test 5;true;656f68f00a5d76be0453dcef;true
+test 6;desc;65570f96fd5ef324149f2355;test 6;true;656f68f00a5d76be0453dcf0;true

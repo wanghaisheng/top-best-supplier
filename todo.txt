@@ -1,0 +1,3 @@
+#image generation for all posible pages
+#check delete function for all and fix
+#fix meta tags
